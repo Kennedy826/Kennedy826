@@ -1,4 +1,4 @@
-- 😀  Hello here,@Kennedy
+- 😀  Hello there! @Kennedy.
 - 👏 Welcome buddy! Let's us progressively make world great together!
 - 
 - 📫 How to reach me:
