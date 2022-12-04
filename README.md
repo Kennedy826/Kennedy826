@@ -1,6 +1,6 @@
 - 😀  Hello there! @Kennedy.
 - 👏 Welcome buddy! Let's us progressively make world great together!
-- 
+- https://giphy.com/gifs/robert-redford-welcome-back-home-3o7aDgf134NzaaHI8o
 - 📫 How to reach me:
                   onyangoken01@gmail.com
 
