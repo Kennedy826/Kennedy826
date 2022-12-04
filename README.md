@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Kennedy826
-- 👀 I’m interested in software engineering and cybersecurity
-- 🌱 I’m currently learning software engineering at ALX 
-- 💞️ I’m looking to collaborate on projects geered towards developing solutions to the emerging problems.
+- 😀  Hello here,@Kennedy
+- 👏 Welcome buddy! Let's us progressively make world great together!
+- 
 - 📫 How to reach me:
                   onyangoken01@gmail.com
 
