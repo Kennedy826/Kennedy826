@@ -1,5 +1,5 @@
 - 😀  Hello there! @Kennedy.
-- 👏 Welcome buddy! Let's us progressively make world great together!
+- 👏 Welcome buddy! Let's progressively make world great together!
 - 📫 How to reach me:
                   onyangoken01@gmail.com
 
