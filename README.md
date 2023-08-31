@@ -1,5 +1,12 @@
-- 😀  Hello there! @Kennedy.
-- 👏 Welcome buddy! Let's progressively make world great together!
+Hello, welcome to this space👋🏿
+
+I'm Kennedy Onyango, a software engineer with more experience as a frontend developer.
+
+🔭 I’m exploring backend for building web applications.
+
+🌱 Having interest in Cybersecurity.
+
+⚡ In my free time, I read tech articles.
 - 📫 How to reach me:
                   onyangoken01@gmail.com
 
