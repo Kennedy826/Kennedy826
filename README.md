@@ -1,10 +1,8 @@
 Hello, welcome to this space👋🏿
 
-I'm Kennedy Onyango, a software engineer with more experience as a frontend developer.
+Student at Alx_Africa studying software engineering.
 
-🔭 I’m exploring backend for building web applications.
-
-🌱 Having interest in Cybersecurity.
+🔭Secure the web - cybersecurity enthusiast .
 
 ⚡ In my free time, I read tech articles.
 - 📫 How to reach me:
